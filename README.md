@@ -1,2 +1,2 @@
 # IncDec
-A simple HMTML page that increment and Dec a number
+A simple HMTML page that increment and decrement a number
