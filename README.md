@@ -1,2 +1,2 @@
 # IncDec
-A simple HMTML page that increment and decrement a number
+A simple HTML page that increment and decrement a number
